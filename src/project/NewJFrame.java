@@ -7,7 +7,7 @@ package project;
 
 /**
  *
- * @author Rahul
+ * @author Arpit
  */
 public class NewJFrame extends javax.swing.JFrame {
 
