@@ -9,7 +9,7 @@ import java.sql.*;
 
 /**
  *
- * @author Rahul
+ * @author Arpit
  */
 public class GetConnection {
    
@@ -18,7 +18,7 @@ public class GetConnection {
 	public Connection getConnection() {
 	try {
 		Class.forName("com.mysql.jdbc.Driver");
-		conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/medicalstore","root","rahul");
+		conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/medicalstore","root","arpit");
 		
 	}
 		catch(Exception e)
