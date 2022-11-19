@@ -15,7 +15,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author Rahul
+ * @author Arpit
  */
 public class PrintFrame extends javax.swing.JFrame implements Printable{
 
